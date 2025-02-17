@@ -1,7 +1,7 @@
 """
 This file is part of Face Swapper, a modified version of roop.
-Original work Copyright (C) 2024 s0md3v (https://github.com/s0md3v)
-Modified work Copyright (C) 2024 Jose Thomas
+Original work Copyright (C) 2025 s0md3v (https://github.com/s0md3v)
+Modified work Copyright (C) 2025 Jose Thomas
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
