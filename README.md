@@ -1,4 +1,4 @@
-# Local Face Swap Learning Project
+# Face Swapper
 
 ## Overview
 This project is a learning exercise in Python development and computer vision, building upon the foundation laid by the [roop project](https://github.com/s0md3v/roop.git) by s0md3v. While the original project is currently inactive, this repository serves as my personal educational exploration of the concepts involved.
@@ -21,7 +21,9 @@ This repository exists solely for educational purposes to understand the technic
 This project is derived from and builds upon:
 - Original Project: [roop](https://github.com/s0md3v/roop.git)
 - Original Author: [s0md3v](https://github.com/s0md3v)
-- License: [Refer Original Project License]
+- License:  GNU General Public License v3.0(/LICENSE)
+
+All modifications are also released under GNU General Public License v3.0.
 
 ## Educational Purpose
 This repository is maintained for personal educational purposes only, focusing on:
